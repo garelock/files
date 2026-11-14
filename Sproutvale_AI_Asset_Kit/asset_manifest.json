@@ -1,0 +1,4378 @@
+{
+  "source_archive": "Pixel Crawler - Free Pack (Exterior 0.1).zip",
+  "extracted_png_count": 181,
+  "source_aseprite_project_files_analyzed": 193,
+  "notes": [
+    "PNG assets copied byte-for-byte.",
+    "Aseprite project files were inspected for animation frame metadata but are not included in this compact kit.",
+    "Body_A animation strips use 64x64 frame cells as confirmed by their matching Aseprite project files."
+  ],
+  "assets": [
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Down-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 992,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Side-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1001,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Up-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 827,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Down-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1375,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Side-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1369,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Up-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1073,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Down-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1283,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Side-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1367,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Up-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1123,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Down-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1743,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Side-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2053,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Up-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1544,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Down-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2629,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Side-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2664,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Up-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2202,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Down-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2017,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Side-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1803,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Up-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1692,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Down-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2425,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Side-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2471,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Up-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2303,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Down-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1163,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Side-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1169,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Up-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 988,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Down-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1026,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Side-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1068,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Up-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 863,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 4,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Down-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2313,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Side-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2166,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Top-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1748,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Down-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1490,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Side-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1696,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Up-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1357,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Down-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2780,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Side-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2871,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Up-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2319,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Down-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1424,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Side-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1414,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Up-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1319,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 6,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Down-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1841,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Side-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2377,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Up-Sheet.png",
+      "width_px": 512,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1547,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "frame_width_px": 64,
+      "frame_height_px": 64,
+      "frame_count_in_sheet": 8,
+      "category": "player_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc/Death/Death-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 3080,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1544,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2443,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Rogue/Death/Death-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 3430,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Rogue/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1614,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Rogue/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2520,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Shaman/Death/Death-Sheet.png",
+      "width_px": 448,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2777,
+      "aseprite_source_metadata": {
+        "frame_count": 7,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Shaman/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1713,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Shaman/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2852,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Warrior/Death/Death-Sheet.png",
+      "width_px": 576,
+      "height_px": 80,
+      "mode": "RGBA",
+      "file_bytes": 4416,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 96,
+        "frame_height": 80,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Warrior/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 2075,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Warrior/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 3248,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Base/Death/Death-Sheet.png",
+      "width_px": 768,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 3388,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 96,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Base/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1248,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Base/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1936,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Mage/Death/Death-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2881,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Mage/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1453,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Mage/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2218,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Rogue/Death/Death-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2962,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Rogue/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1432,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Rogue/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2314,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Warrior/Death/Death-Sheet.png",
+      "width_px": 384,
+      "height_px": 48,
+      "mode": "RGBA",
+      "file_bytes": 2908,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 48,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Warrior/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1506,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Warrior/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2495,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "enemy_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Peasant_A/Idle/Idle-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1706,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Peasant_A/Walk/Walk-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2351,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Tavern_A/Idle/Idle_Side-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1537,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Tavern_A/Idle_Hold/Idle_Side-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1437,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Tavern_A/Walk/Walk_Side-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2089,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Tavern_A/Walk_Hold/Walk_Side-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1852,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Tavern_B/Idle/Idle_Side-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1537,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Tavern_B/Idle_Hold/Idle_Side-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1437,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Tavern_B/Walk/Walk_Side-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2089,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Citizen_F/Tavern_B/Walk_Hold/Walk_Side-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1852,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Knight/Death/Death-Sheet.png",
+      "width_px": 288,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1943,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 48,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Knight/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1102,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Knight/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1933,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Rogue/Death/Death-Sheet.png",
+      "width_px": 384,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 2650,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Rogue/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1342,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Rogue/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2435,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Wizzard/Death/Death-Sheet.png",
+      "width_px": 384,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 3465,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Wizzard/Idle/Idle-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1507,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Entities/Npc's/Wizzard/Run/Run-Sheet.png",
+      "width_px": 384,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2547,
+      "aseprite_source_metadata": {
+        "frame_count": 6,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "npc_animations"
+    },
+    {
+      "path": "assets/Environment/Props/Animated/Pan_01-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 761,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "animated_environment_props"
+    },
+    {
+      "path": "assets/Environment/Props/Animated/Pan_02-Sheet.png",
+      "width_px": 64,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 634,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 16,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "animated_environment_props"
+    },
+    {
+      "path": "assets/Environment/Props/Animated/Pan_03-Sheet.png",
+      "width_px": 384,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1670,
+      "aseprite_source_metadata": {
+        "frame_count": 12,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "animated_environment_props"
+    },
+    {
+      "path": "assets/Environment/Props/Animated/Pan_04-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 838,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "animated_environment_props"
+    },
+    {
+      "path": "assets/Environment/Props/Animated/Pan_05-Sheet.png",
+      "width_px": 256,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1624,
+      "aseprite_source_metadata": {
+        "frame_count": 8,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "animated_environment_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Dungeon_Props.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 4213,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Esoteric.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 4885,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Farm.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 22698,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Furniture.png",
+      "width_px": 800,
+      "height_px": 864,
+      "mode": "RGBA",
+      "file_bytes": 29445,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 800,
+        "frame_height": 864,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Meat.png",
+      "width_px": 192,
+      "height_px": 144,
+      "mode": "RGBA",
+      "file_bytes": 5397,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 192,
+        "frame_height": 144,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Pan.png",
+      "width_px": 160,
+      "height_px": 176,
+      "mode": "RGBA",
+      "file_bytes": 6799,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 160,
+        "frame_height": 192,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Resources.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 4487,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Rocks.png",
+      "width_px": 208,
+      "height_px": 304,
+      "mode": "RGBA",
+      "file_bytes": 8436,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 208,
+        "frame_height": 304,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Shadows.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 3965,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Tools.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 13491,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_01/Size_02.png",
+      "width_px": 256,
+      "height_px": 128,
+      "mode": "RGBA",
+      "file_bytes": 10604,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 256,
+        "frame_height": 128,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_01/Size_03.png",
+      "width_px": 208,
+      "height_px": 192,
+      "mode": "RGBA",
+      "file_bytes": 19583,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 208,
+        "frame_height": 192,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_01/Size_04.png",
+      "width_px": 368,
+      "height_px": 256,
+      "mode": "RGBA",
+      "file_bytes": 47337,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 368,
+        "frame_height": 256,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_01/Size_05.png",
+      "width_px": 448,
+      "height_px": 368,
+      "mode": "RGBA",
+      "file_bytes": 50559,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 448,
+        "frame_height": 368,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_02/Size_02.png",
+      "width_px": 128,
+      "height_px": 96,
+      "mode": "RGBA",
+      "file_bytes": 4945,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 128,
+        "frame_height": 96,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_02/Size_03.png",
+      "width_px": 144,
+      "height_px": 160,
+      "mode": "RGBA",
+      "file_bytes": 8168,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 144,
+        "frame_height": 160,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_02/Size_04.png",
+      "width_px": 192,
+      "height_px": 224,
+      "mode": "RGBA",
+      "file_bytes": 12805,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 192,
+        "frame_height": 224,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_02/Size_05.png",
+      "width_px": 288,
+      "height_px": 320,
+      "mode": "RGBA",
+      "file_bytes": 28032,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 288,
+        "frame_height": 320,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_02.png",
+      "width_px": 128,
+      "height_px": 160,
+      "mode": "RGBA",
+      "file_bytes": 5922,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 128,
+        "frame_height": 160,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_03-export.png",
+      "width_px": 192,
+      "height_px": 288,
+      "mode": "RGBA",
+      "file_bytes": 15338,
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_03.png",
+      "width_px": 192,
+      "height_px": 288,
+      "mode": "RGBA",
+      "file_bytes": 15338,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 192,
+        "frame_height": 288,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_04-export-export.png",
+      "width_px": 288,
+      "height_px": 416,
+      "mode": "RGBA",
+      "file_bytes": 30240,
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_04-export.png",
+      "width_px": 288,
+      "height_px": 416,
+      "mode": "RGBA",
+      "file_bytes": 30240,
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_04.png",
+      "width_px": 400,
+      "height_px": 416,
+      "mode": "RGBA",
+      "file_bytes": 31102,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 416,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_05.png",
+      "width_px": 384,
+      "height_px": 512,
+      "mode": "RGBA",
+      "file_bytes": 41673,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 384,
+        "frame_height": 512,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "trees"
+    },
+    {
+      "path": "assets/Environment/Props/Static/Vegetation.png",
+      "width_px": 400,
+      "height_px": 432,
+      "mode": "RGBA",
+      "file_bytes": 40171,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 432,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "static_props"
+    },
+    {
+      "path": "assets/Environment/Structures/Buildings/Interior/Interior_Props_01.png",
+      "width_px": 608,
+      "height_px": 384,
+      "mode": "RGBA",
+      "file_bytes": 42563,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 608,
+        "frame_height": 384,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Buildings/Interior/Interior_Walls_01.png",
+      "width_px": 912,
+      "height_px": 656,
+      "mode": "RGBA",
+      "file_bytes": 59894,
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Buildings/Props.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 8364,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Buildings/Roofs.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 11073,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Buildings/Shadows.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 1634,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Buildings/Walls.png",
+      "width_px": 672,
+      "height_px": 800,
+      "mode": "RGBA",
+      "file_bytes": 22524,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 672,
+        "frame_height": 800,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Alchemy/Alchemy_Table_01-Sheet.png",
+      "width_px": 192,
+      "height_px": 704,
+      "mode": "RGBA",
+      "file_bytes": 13701,
+      "aseprite_source_metadata": {
+        "frame_count": 63,
+        "frame_width": 32,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Alchemy/Alchemy_Table_02-Sheet.png",
+      "width_px": 528,
+      "height_px": 320,
+      "mode": "RGBA",
+      "file_bytes": 16055,
+      "aseprite_source_metadata": {
+        "frame_count": 51,
+        "frame_width": 48,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Alchemy/Alchemy_Table_03-Sheet.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 24639,
+      "aseprite_source_metadata": {
+        "frame_count": 22,
+        "frame_width": 80,
+        "frame_height": 80,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Anvil/Anvil.png",
+      "width_px": 272,
+      "height_px": 160,
+      "mode": "RGBA",
+      "file_bytes": 7961,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 272,
+        "frame_height": 160,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Anvil/Anvil_01-Sheet.png",
+      "width_px": 512,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 14014,
+      "aseprite_source_metadata": {
+        "frame_count": 35,
+        "frame_width": 64,
+        "frame_height": 80,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Anvil/Anvil_02-Sheet.png",
+      "width_px": 480,
+      "height_px": 480,
+      "mode": "RGBA",
+      "file_bytes": 27126,
+      "aseprite_source_metadata": {
+        "frame_count": 35,
+        "frame_width": 80,
+        "frame_height": 80,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Anvil/Anvil_03-Sheet.png",
+      "width_px": 768,
+      "height_px": 560,
+      "mode": "RGBA",
+      "file_bytes": 39876,
+      "aseprite_source_metadata": {
+        "frame_count": 35,
+        "frame_width": 96,
+        "frame_height": 112,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire.png",
+      "width_px": 64,
+      "height_px": 384,
+      "mode": "RGBA",
+      "file_bytes": 3919,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 80,
+        "frame_height": 560,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_01-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1049,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_02-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1169,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_03-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 714,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_04-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 689,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_05-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 725,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_06-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 353,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_07-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 692,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_08-Sheet.png",
+      "width_px": 128,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 651,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_09-Sheet.png",
+      "width_px": 320,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1809,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 80,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_10-Sheet.png",
+      "width_px": 192,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 1179,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 48,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Fire_01-Sheet.png",
+      "width_px": 128,
+      "height_px": 48,
+      "mode": "RGBA",
+      "file_bytes": 1417,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 48,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Fire_02-Sheet.png",
+      "width_px": 128,
+      "height_px": 48,
+      "mode": "RGBA",
+      "file_bytes": 797,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 48,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Bonfire/Smoke-Sheet.png",
+      "width_px": 128,
+      "height_px": 48,
+      "mode": "RGBA",
+      "file_bytes": 554,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 48,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Butchery/Butchery_01-Sheet.png",
+      "width_px": 64,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 752,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Butchery/Butchery_02.png",
+      "width_px": 64,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1150,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Butchery/Butchery_03.png",
+      "width_px": 80,
+      "height_px": 80,
+      "mode": "RGBA",
+      "file_bytes": 2233,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 80,
+        "frame_height": 80,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Butchery/Butchery_04.png",
+      "width_px": 80,
+      "height_px": 80,
+      "mode": "RGBA",
+      "file_bytes": 3020,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 80,
+        "frame_height": 80,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooker/Cooker_01.png",
+      "width_px": 64,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 508,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooker/Cooker_02.png",
+      "width_px": 64,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 336,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooker/Cooker_03-Sheet.png",
+      "width_px": 192,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 909,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 48,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooker/Cooker_04-Sheet.png",
+      "width_px": 320,
+      "height_px": 80,
+      "mode": "RGBA",
+      "file_bytes": 2897,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 80,
+        "frame_height": 80,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooking Station.png",
+      "width_px": 288,
+      "height_px": 224,
+      "mode": "RGBA",
+      "file_bytes": 16528,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 288,
+        "frame_height": 224,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Estructure.png",
+      "width_px": 288,
+      "height_px": 224,
+      "mode": "RGBA",
+      "file_bytes": 6314,
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Grill/Grill_01-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1564,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Grill/Grill_02-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 1708,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Grill/Grill_03-Sheet.png",
+      "width_px": 256,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2249,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 64,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Grill/Grill_04-Sheet.png",
+      "width_px": 320,
+      "height_px": 64,
+      "mode": "RGBA",
+      "file_bytes": 2787,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 80,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Bricks_01-Sheet.png",
+      "width_px": 64,
+      "height_px": 96,
+      "mode": "RGBA",
+      "file_bytes": 1680,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 48,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Bricks_02-Sheet.png",
+      "width_px": 96,
+      "height_px": 128,
+      "mode": "RGBA",
+      "file_bytes": 2440,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 48,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Bricks_03-Sheet.png",
+      "width_px": 96,
+      "height_px": 128,
+      "mode": "RGBA",
+      "file_bytes": 2439,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 48,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Furnace.png",
+      "width_px": 192,
+      "height_px": 384,
+      "mode": "RGBA",
+      "file_bytes": 18229,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 192,
+        "frame_height": 384,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Iron_01-Sheet.png",
+      "width_px": 64,
+      "height_px": 96,
+      "mode": "RGBA",
+      "file_bytes": 1550,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 48,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Iron_02-Sheet.png",
+      "width_px": 96,
+      "height_px": 128,
+      "mode": "RGBA",
+      "file_bytes": 2283,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 48,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Iron_03-Sheet.png",
+      "width_px": 96,
+      "height_px": 128,
+      "mode": "RGBA",
+      "file_bytes": 3160,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 48,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Stone_01-Sheet.png",
+      "width_px": 64,
+      "height_px": 96,
+      "mode": "RGBA",
+      "file_bytes": 1560,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 32,
+        "frame_height": 48,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Stone_02-Sheet.png",
+      "width_px": 96,
+      "height_px": 128,
+      "mode": "RGBA",
+      "file_bytes": 1807,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 48,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Furnace/Stone_03-Sheet.png",
+      "width_px": 96,
+      "height_px": 128,
+      "mode": "RGBA",
+      "file_bytes": 2331,
+      "aseprite_source_metadata": {
+        "frame_count": 4,
+        "frame_width": 48,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Sawmill/Base.png",
+      "width_px": 256,
+      "height_px": 144,
+      "mode": "RGBA",
+      "file_bytes": 7334,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 256,
+        "frame_height": 144,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Sawmill/Level_1.png",
+      "width_px": 32,
+      "height_px": 32,
+      "mode": "RGBA",
+      "file_bytes": 614,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 32,
+        "frame_height": 32,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Sawmill/Level_2-Sheet.png",
+      "width_px": 640,
+      "height_px": 512,
+      "mode": "RGBA",
+      "file_bytes": 31563,
+      "aseprite_source_metadata": {
+        "frame_count": 60,
+        "frame_width": 80,
+        "frame_height": 64,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Sawmill/Level_3-Sheet.png",
+      "width_px": 896,
+      "height_px": 640,
+      "mode": "RGBA",
+      "file_bytes": 50055,
+      "aseprite_source_metadata": {
+        "frame_count": 60,
+        "frame_width": 112,
+        "frame_height": 80,
+        "depth": 32,
+        "frame_durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Structures/Stations/Workbench/Workbench.png",
+      "width_px": 192,
+      "height_px": 352,
+      "mode": "RGBA",
+      "file_bytes": 13731,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 192,
+        "frame_height": 352,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "buildings_and_workstations"
+    },
+    {
+      "path": "assets/Environment/Tilesets/Dungeon_Tiles.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 21113,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "terrain_tilesets"
+    },
+    {
+      "path": "assets/Environment/Tilesets/Floors_Tiles.png",
+      "width_px": 400,
+      "height_px": 416,
+      "mode": "RGBA",
+      "file_bytes": 21966,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 416,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "terrain_tilesets"
+    },
+    {
+      "path": "assets/Environment/Tilesets/Wall_Tiles.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 41057,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "terrain_tilesets"
+    },
+    {
+      "path": "assets/Environment/Tilesets/Wall_Variations.png",
+      "width_px": 256,
+      "height_px": 480,
+      "mode": "RGBA",
+      "file_bytes": 36550,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 256,
+        "frame_height": 480,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "terrain_tilesets"
+    },
+    {
+      "path": "assets/Environment/Tilesets/Water_tiles.png",
+      "width_px": 400,
+      "height_px": 400,
+      "mode": "RGBA",
+      "file_bytes": 12937,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "terrain_tilesets"
+    },
+    {
+      "path": "assets/MockUps/Tavern.png",
+      "width_px": 1280,
+      "height_px": 1280,
+      "mode": "RGBA",
+      "file_bytes": 151950,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 640,
+        "frame_height": 640,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "reference_mockups"
+    },
+    {
+      "path": "assets/Weapons/Bone/Bone.png",
+      "width_px": 224,
+      "height_px": 144,
+      "mode": "RGBA",
+      "file_bytes": 7285,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 224,
+        "frame_height": 144,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "weapons"
+    },
+    {
+      "path": "assets/Weapons/Hands/Hands.png",
+      "width_px": 32,
+      "height_px": 96,
+      "mode": "RGBA",
+      "file_bytes": 1273,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 400,
+        "frame_height": 400,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "weapons"
+    },
+    {
+      "path": "assets/Weapons/Wood/Wood.png",
+      "width_px": 192,
+      "height_px": 112,
+      "mode": "RGBA",
+      "file_bytes": 6479,
+      "aseprite_source_metadata": {
+        "frame_count": 1,
+        "frame_width": 192,
+        "frame_height": 112,
+        "depth": 32,
+        "frame_durations_ms": [
+          100
+        ]
+      },
+      "category": "weapons"
+    }
+  ],
+  "player_animation_groups": {
+    "Carry_Idle": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Down-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Side-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Up-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Carry_Run": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Down-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Side-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Up-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Carry_Walk": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Down-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Side-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Up-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Collect_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Down-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Side-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Up-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Crush_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Down-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Side-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Up-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Death_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Down-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Side-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Up-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Fishing_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Down-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Side-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Up-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Hit_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Down-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Side-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Up-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Idle_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Down-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Side-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Up-Sheet.png",
+        "frames": 4,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Pierce_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Down-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Side-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Top",
+        "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Top-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Run_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Down-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Side-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Up-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Slice_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Down-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Side-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Up-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Walk_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Down-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Side-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Up-Sheet.png",
+        "frames": 6,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ],
+    "Watering_Base": [
+      {
+        "direction": "Down",
+        "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Down-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Side",
+        "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Side-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      },
+      {
+        "direction": "Up",
+        "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Up-Sheet.png",
+        "frames": 8,
+        "frame_size": "64x64 px",
+        "timing": "100 ms/frame from matching Aseprite project"
+      }
+    ]
+  }
+}

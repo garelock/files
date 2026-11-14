@@ -1,0 +1,24 @@
+PIXELFORK IMPLEMENTATION PROMPT — USE THE ATTACHED PIXEL CRAWLER ASSETS
+
+Build SPROUTVALE: THE LITTLE KINGDOM as a colorful top-down 2D pixel-art adventure RPG. The attached ZIP contains the real asset library. Read README.md, asset_manifest.json, and ANIMATION_AND_MOVEMENT_GUIDE.md before implementing. Treat the manifest paths as the source of truth.
+
+MANDATORY ASSET RULES
+1. Use the supplied PNG artwork as the primary game art. Do not replace it with generated lookalikes.
+2. Preserve original transparency, pixel proportions and palette. Use nearest-neighbor scaling and disable smoothing.
+3. Use Body_A 64x64 animation frames and the exact direction/action mapping in ANIMATION_AND_MOVEMENT_GUIDE.md. Read per-file Aseprite timing arrays from the manifest where available.
+4. Implement a real animation state machine: idle, walk, run, carry idle/walk/run, collect, fishing, watering, slice, pierce, hit and death. Use one-shot vs looping behavior as specified in the guide. Keep feet/origin aligned to prevent jitter.
+5. Use the Orc and Skeleton Idle/Run/Death sheets for enemies. The pack does not list explicit enemy attack sheets; implement enemy attacks through gameplay logic without pretending an attack animation exists.
+6. Use actual NPC animation variants. Do not assume every NPC has four-direction movement.
+7. Use the supplied terrain, water, buildings, interiors, trees, props, stations and weapons from their exact manifest paths. Inspect atlases before slicing; do not treat static atlases as animation strips.
+
+GAMEPLAY
+Create a cheerful, colorful fantasy village adventure. The player restores Sproutvale, helps villagers, gathers resources, farms, fishes, crafts, explores a forest and dungeon, and fights orcs and skeletons. Include functional movement, collision, NPC interactions, quests, inventory, gathering, farming, fishing, crafting, combat, progression and save/load.
+
+IMPLEMENTATION ORDER
+A. First show an asset import/preview report: list the player, enemy, NPC, terrain, building and prop assets successfully found. Flag missing assets instead of silently substituting them.
+B. Build and test the player controller and every available Body_A animation state.
+C. Build the village scene with tilesets, buildings, trees and props.
+D. Add NPCs, gathering, farming, fishing, enemies and combat.
+E. Add quests, crafting, progression, UI and persistence.
+
+Do not spend credits on a full game until the supplied art has been successfully recognized. If external ZIP reading or asset import is unsupported, stop and explain which files or upload method are required. Never claim to have imported assets that were not actually accessible.
